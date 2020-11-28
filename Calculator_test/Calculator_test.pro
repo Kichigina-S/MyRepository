@@ -4,7 +4,7 @@
 #
 #-------------------------------------------------
 
-QT       += testlib
+QT       += widgets testlib
 
 TARGET = tst_calculator_test
 CONFIG   += console
