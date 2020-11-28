@@ -2,7 +2,7 @@
 #include <QtTest>
 #include <QCoreApplication>
 
-#include "../Calculator/operations.h"
+#include "../Calculator_Main/operations.h"
 
 class Calculator_test : public QObject
 {
